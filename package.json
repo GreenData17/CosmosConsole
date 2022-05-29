@@ -1,7 +1,7 @@
 {
   "name": "com.greendata17.cosmosconsole",
   "version": "1.1.0",
-  "displayName": "Cosmos Console",
+  "displayName": "CosmosConsole",
   "description": "A in-game customizable console.",
   "unity": "2021.3",
   "keywords": [
